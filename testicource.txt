@@ -1,0 +1,5 @@
+int index ==;
+while(index++<10)
+{
+	doStuf();
+}
